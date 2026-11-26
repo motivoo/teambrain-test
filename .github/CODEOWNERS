@@ -1,3 +1,6 @@
+# Setup proposal: @motivoo is the only account with verified write access so far.
+# A distinct backup login is still missing; keep owner rules inactive until it is supplied and verified.
+
 # Example only. Replace placeholders with real logins that have write access,
 # then uncomment the relevant rules. The second person provides backup review.
 # The last matching pattern takes precedence. This file grants no permissions.
