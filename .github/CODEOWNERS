@@ -1,0 +1,17 @@
+# Example only. Replace placeholders with real logins that have write access,
+# then uncomment the relevant rules. The second person provides backup review.
+# The last matching pattern takes precedence. This file grants no permissions.
+# *                        @steward @backup
+# /01-Team/                @steward @backup
+# /02-Knowledge/           @product-owner @product-backup
+# /02-Knowledge/domain/    @domain-owner @domain-backup
+# /02-Knowledge/customers/ @research-owner @research-backup
+# /02-Knowledge/practices/ @research-owner @research-backup
+# /03-Projects/            @product-owner @product-backup
+# /04-Sources/             @steward @backup
+# /05-Templates/           @steward @backup
+# /.agents/skills/         @steward @backup
+# /.claude/skills/         @steward @backup
+# /docs/                   @steward @backup
+# /scripts/                @steward @backup
+# /.github/                @steward @backup
